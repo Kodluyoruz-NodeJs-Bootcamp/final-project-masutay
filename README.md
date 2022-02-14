@@ -1,4 +1,8 @@
-## WATCH YOUR MOVIE / MuhammetAli Sutay 
+## WATCH YOUR MOVIE 
+### Muhammet Ali Sutay
+
+LinkedIn : [ LinkedIn ](https://www.linkedin.com/in/muhammet-ali-sutay/)
+GitHub : [ GitHub ](https://github.com/masutay)
 
 ## 🌏 Check out [ demo](https://watchyourbestmovie.herokuapp.com/login)
 
@@ -84,11 +88,6 @@ https://user-images.githubusercontent.com/59343235/153801558-1f46afad-5eb7-4003-
 
 
 
-# Muhammet Ali Sutay
-
-LinkedIn : [ LinkedIn ](https://www.linkedin.com/in/muhammet-ali-sutay/)
-
-GitHub : [ GitHub ](https://github.com/masutay)
 
 
 
